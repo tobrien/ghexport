@@ -5,7 +5,7 @@
     "main": "dist/main.js",
     "type": "module",
     "bin": {
-        "gmexport": "./dist/main.js"
+        "ghexport": "./dist/main.js"
     },
     "scripts": {
         "build": "tsc",
@@ -26,8 +26,6 @@
     "author": "Tim O'Brien <tobrien@discursive.com>",
     "license": "Apache-2.0",
     "dependencies": {
-        "@google-cloud/local-auth": "^3.0.1",
-        "@octokit/rest": "^21.1.1",
         "@types/commander": "^2.12.5",
         "@types/yaml": "^1.9.7",
         "commander": "^13.1.0",
@@ -35,8 +33,6 @@
         "dotenv": "^16.4.7",
         "express": "^4.21.2",
         "glob": "^11.0.1",
-        "google-auth-library": "^9.6.3",
-        "googleapis": "^148.0.0",
         "js-yaml": "^4.1.0",
         "luxon": "^3.5.0",
         "turndown": "^7.1.2",
