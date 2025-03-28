@@ -1,0 +1,8 @@
+.env 
+dist
+node_modules
+credentials.json
+token.json
+*.log
+.vscode
+coverage/
