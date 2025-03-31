@@ -37,7 +37,7 @@
         "luxon": "^3.5.0",
         "turndown": "^7.1.2",
         "winston": "^3.17.0",
-        "yaml": "^2.7.0"
+        "yaml": "^2.7.1"
     },
     "devDependencies": {
         "@types/jest": "^29.5.14",
